@@ -1,4 +1,4 @@
-things to try - the obvious:
+things to try - the obvious
 ============================
 
 Uninstall and Reinstall GPU Drivers:
@@ -65,10 +65,15 @@ More depth and log collection:
 
         
 After running these commands, you should have the following logs and information gathered:
+
     • GPU-Z log file 
+    
     • Event Viewer logs 
+    
     • System information report 
+    
 Please provide these logs and information, and I'll be happy to continue troubleshooting the issue with your RTX 2070 GPU.
+
 
 
 
